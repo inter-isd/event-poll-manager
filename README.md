@@ -9,11 +9,6 @@ N.B.
 ====
 Maintainers needed. If you want to contribute to this repository, let me through my email and I can transfer the ownership. Currently, I'm unable to maintain this repo any more. TIA!
 
-Demo
-====
-
-An online demo is available at http://www.infismash.com/demos/UserProfile/
-
 Requirements
 ============
 
